@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>Lambton Account Registration Form</h1>
-	<form action="RegisterLilly" method="post">
+	<form action="RegisterGroupB" method="post">
 		<table style="with: 50%">
 			<tr>
 			</tr>
